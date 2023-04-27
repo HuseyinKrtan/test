@@ -1,2 +1,3 @@
 bazı degisiklikler yaptim.
 remoteda kodlar yazdim.
+burada çakısma olacak
