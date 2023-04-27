@@ -4,4 +4,9 @@ remoteda kodlar yazdim.
 bazı kodlar yazdim
 
 burada çakısma olacak
-diger dev kod yazdi
+
+hüseyi branchi kod yazdi
+
+
+
+
